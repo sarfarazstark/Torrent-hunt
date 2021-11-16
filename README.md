@@ -1,6 +1,6 @@
 # Torrent-Search-Bot
 
-A Simple Telegram Inline Torrent Search Bot by [@AbirHasan2005](https://github.com/AbirHasan2005).
+A Simple Telegram Inline Torrent Search Bot by [@SarfarazStark](https://github.com/SarfarazStark).
 
 ## Torrent API
 - Using [api.abirhasan.wtf](https://api.abirhasan.wtf/) API
