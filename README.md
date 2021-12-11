@@ -14,7 +14,7 @@ Click Below Button to Deploy to Heroku:
 ### Deploy Locally
 ```shell
 git clone https://github.com/sarfarazstark/Torrent-hunt
-cd Torrent-Search-Bot
+cd Torrent-hunt
 pip3 install -r requirements.txt
 python3 main.py
 ```
